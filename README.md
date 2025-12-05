@@ -8,7 +8,7 @@
 
 "Good [morning/afternoon] everyone. My name is [Your Name], and I'm here to introduce you to **AION**—the future of payments.
 
-We're building the world's first crypto credit card where your assets earn yield while you spend, and your credit limit grows automatically. No liquidation risk. No selling your crypto. Just spend, earn, and grow."
+We're building the world's first yield-backed crypto credit card where your staked assets earn while you spend, and your credit limit grows automatically. No liquidation risk. No forced selling. Just stake, spend, and grow."
 
 ---
 
@@ -24,7 +24,7 @@ We're building the world's first crypto credit card where your assets earn yield
 
 "Let me paint you a picture of what's broken in crypto payments today.
 
-**First—Broken Credit Access.** 63% of crypto holders want to spend their assets without selling them. But there's no real solution. If you hold Bitcoin or USDC and need to buy something, you're forced to liquidate—missing out on future gains.
+**First—Broken Credit Access.** 63% of crypto holders want to access credit without liquidating their assets. But there's no real solution. If you hold Bitcoin or USDC and need to buy something, you're forced to sell—missing out on future gains.
 
 **Second—No Credit Growth.** Existing crypto cards like Nexo or BitPay either lock your collateral without earning yield, or force you to liquidate assets entirely. You lose growth potential just to spend.
 
@@ -53,7 +53,7 @@ AION is the first on-chain crypto credit card that lets you spend while your ass
 
 **Fourth—Sustainable Liquidity System.** Liquidity providers earn yield by supplying capital to our lending pools. The protocol stays overcollateralized, and yield distribution is automated and transparent through **Move smart contracts** on Aptos.
 
-So instead of choosing between holding your crypto or spending it, with AION you get **both**—you spend, you earn, and you build credit history on-chain."
+So instead of choosing between holding your crypto or liquidating it for cash, with AION you get **both**—you access credit, your assets keep earning, and you build credit history on-chain."
 
 ---
 
